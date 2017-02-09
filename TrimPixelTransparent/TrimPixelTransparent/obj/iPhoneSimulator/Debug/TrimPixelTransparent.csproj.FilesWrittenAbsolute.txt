@@ -1,0 +1,9 @@
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/obj/iPhoneSimulator/Debug/optimized/
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/bin/iPhoneSimulator/Debug/TrimPixelTransparent.exe.mdb
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/bin/iPhoneSimulator/Debug/TrimPixelTransparent.exe
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/obj/iPhoneSimulator/Debug/TrimPixelTransparent.exe
+/Users/ducnguyen/Documents/Demo/TrimPixelTransparent/TrimPixelTransparent/obj/iPhoneSimulator/Debug/TrimPixelTransparent.exe.mdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrimPixelTransparent", "TrimPixelTransparent\TrimPixelTransparent.csproj", "{EBE639C7-9066-48E9-957E-02D7873038FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE639C7-9066-48E9-957E-02D7873038FD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EBE639C7-9066-48E9-957E-02D7873038FD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EBE639C7-9066-48E9-957E-02D7873038FD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EBE639C7-9066-48E9-957E-02D7873038FD}.Release|iPhone.Build.0 = Release|iPhone
+		{EBE639C7-9066-48E9-957E-02D7873038FD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EBE639C7-9066-48E9-957E-02D7873038FD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{EBE639C7-9066-48E9-957E-02D7873038FD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EBE639C7-9066-48E9-957E-02D7873038FD}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

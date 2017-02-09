@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EBE639C7-9066-48E9-957E-02D7873038FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrimPixelTransparent/ViewController.cs">
+    <Files>
+      <File FileName="TrimPixelTransparent/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TrimPixelTransparent/ViewController.cs" Line="147" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../LoudBeacon/LoudBeacon/LoudBeacon.Touch.UI/Views/AddBroadcastScheduleView.cs" line="307" offsetX="489" offsetY="1545" expression="latitude" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.TrimPixelTransparent PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B9A2A3CC-6817-4F3B-A4BC-CE96C91DCB76" />
+</Properties>

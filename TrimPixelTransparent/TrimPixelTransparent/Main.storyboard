@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ezy-cP-huL">
+                                <rect key="frame" x="61.5" y="20" width="252" height="267"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="252" id="yOT-Z1-IVi"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="vea-Xn-mBY">
+                                <rect key="frame" x="61" y="400" width="253" height="267"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="253" id="RGY-ub-ucn"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dWb-Dc-FLz">
+                                <rect key="frame" x="164" y="318.5" width="46" height="30"/>
+                                <state key="normal" title="Button"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="ezy-cP-huL" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="2Ua-L4-zPB"/>
+                            <constraint firstItem="vea-Xn-mBY" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="5EP-zV-IzY"/>
+                            <constraint firstItem="dWb-Dc-FLz" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="5js-ED-1CO"/>
+                            <constraint firstItem="dWb-Dc-FLz" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="AfD-WC-DHl"/>
+                            <constraint firstItem="vea-Xn-mBY" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.8:2" id="SYs-lZ-eLK"/>
+                            <constraint firstItem="ezy-cP-huL" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="jtM-JK-4Tl"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="vea-Xn-mBY" secondAttribute="bottom" id="lfy-j8-BCy"/>
+                            <constraint firstItem="ezy-cP-huL" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.8:2" id="qSF-ND-ReB"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="btnTrim" destination="dWb-Dc-FLz" id="QIV-xb-nsJ"/>
+                        <outlet property="ivAfterTrim" destination="vea-Xn-mBY" id="AzX-vY-Hvc"/>
+                        <outlet property="ivOrginal" destination="ezy-cP-huL" id="crs-mg-mOT"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="116" y="123.68815592203899"/>
+        </scene>
+    </scenes>
+</document>
